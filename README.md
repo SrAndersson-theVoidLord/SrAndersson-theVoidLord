@@ -4,7 +4,7 @@ I'm a self-taught passionate Backend and FrontEnd developer from Buenos Aires. <
 Now I am  doing my own developments. <br />
 <br />
 
-<a href="https://srandersson-thevoidlord.github.io/"target="_blank">My Portfolio</a>
+<a href="https://srandersson-thevoidlord.github.io/"target="_blank"> <span> My Portfolio </span></a>
 
 <a href="https://www.linkedin.com/in/lucas-greco-8921ab167/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
   <a href = "mailto:lucasnicolas.greco@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
